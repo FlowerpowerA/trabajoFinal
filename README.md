@@ -22,11 +22,11 @@ SecurityBreach está dirigido a:
 
 - Escaneo de vulnerabilidades: SecurityBreach realiza un análisis exhaustivo en busca de posibles vulnerabilidades y debilidades de seguridad en tu sitio web.
 
-- Firewall de aplicaciones web (WAF): Nuestra aplicación incluye un WAF que bloquea los ataques comunes y protege tus aplicaciones web contra amenazas conocidas.
+- Firewall de aplicaciones web (WAF): Nuestra aplicación incluye un WAF este bloquea los ataques comunes y protege tus aplicaciones web contra posibles amenazas conocidas.
 
 - Registro y análisis de registros: SecurityBreach registra todos los eventos de seguridad y proporciona análisis detallados para que puedas tomar medidas correctivas.
 
-- Actualizaciones automáticas: Mantenemos nuestras bases de datos de amenazas actualizadas de manera constante, para asegurarnos de que estés protegido contra las últimas amenazas.
+- Actualizaciones automáticas: Mantenemos nuestras bases de datos de amenazas actualizadas de manera constante, de esta forma nos asegurarnos de que estés protegido contra las últimas amenazas.
 
 - Alertas en tiempo real: Recibe notificaciones instantáneas cuando se detecten actividades sospechosas o ataques en curso en tu sitio.
 
@@ -35,7 +35,7 @@ SecurityBreach está dirigido a:
 ## Cómo Empezar
 
 1. Clona este repositorio o descarga la última versión.
-2. Sigue las instrucciones de instalación en la documentación adjunto.
+2. Sigue las instrucciones de instalación en la documentación adjuntada.
 3. Configura las opciones de seguridad según tus requisitos.
 4. ¡Comienza a proteger tu sitio web con SecurityBreach!
 
